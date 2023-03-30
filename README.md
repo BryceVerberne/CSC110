@@ -37,6 +37,6 @@ To run and modify the code in this repository, you will need the following softw
 
 ## License
 
-This repository is for educational purposes, and you are free to use, modify or distribute the code as needed. Please give credit where appropriate if you use any of the code in your own projects.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Feel free to adjust the content as needed to match your repository's structure and the specific course you took.
+**Good luck and happy coding!**
