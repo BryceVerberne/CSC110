@@ -13,8 +13,8 @@ This program takes an array of integers from the user and sorts it in a unique w
 
 ## Usage
 
-- Compile the Java program (e.g., javac Main.java).
-- Run the compiled Java program (e.g., java Main).
+- Compile the Java program (e.g., `javac Main.java`).
+- Run the compiled Java program (e.g., `java Main`).
 - Follow the prompts to enter the array size and elements.
 - The program will output the sorted array according to the unique sorting method.
 
