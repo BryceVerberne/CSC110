@@ -8,8 +8,8 @@ The Next Substring program takes three user inputs: a word (inputString), a star
 
 ## Usage
 
-1. Compile the Java program (e.g., javac Main.java).
-2. Run the compiled Java program (e.g., java Main).
+1. Compile the Java program (e.g., `javac Main.java`).
+2. Run the compiled Java program (e.g., `java Main`).
 3. Follow the prompts to enter the word, index, and search word.
 4. The program will output the index of the next occurrence of the search word or -1 if not found.
 
