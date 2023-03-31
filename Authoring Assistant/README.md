@@ -17,8 +17,8 @@ This program takes a sample text from the user and offers a menu with various te
 
 ## Usage
 
-1. Compile the Java program (e.g., javac Main.java).
-2. Run the compiled Java program (e.g., java Main).
+1. Compile the Java program (e.g., `javac Main.java`).
+2. Run the compiled Java program (e.g., `java Main`).
 3. Follow the prompts to enter a sample text.
 4. Choose an option from the menu to perform the desired text analysis.
 5. The program will output the result based on the chosen option.
