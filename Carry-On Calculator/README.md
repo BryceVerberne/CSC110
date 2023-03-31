@@ -8,8 +8,8 @@ The Carry-On Calculator takes the passenger's age, number of checked bags, and n
 
 ## Usage
 
-1. Compile the Java program (e.g., javac Main.java).
-2. Run the compiled Java program (e.g., java Main).
+1. Compile the Java program (e.g., `javac Main.java`).
+2. Run the compiled Java program (e.g., `java Main`).
 3. Follow the prompts to enter the passenger's age, number of checked bags, and number of carry-on items.
 4. The program will output the total cost of the plane ticket.
 
