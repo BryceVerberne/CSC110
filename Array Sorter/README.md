@@ -6,11 +6,6 @@ A Java program that sorts an array of integers, placing the largest value at the
 
 This program takes an array of integers from the user and sorts it in a unique way. The largest element is placed at the beginning of the array, the smallest element is placed at the end of the array, and the remaining elements are sorted in ascending order. The sorted array is then printed out.
 
-## Features
-
-- The program supports user-defined array size and elements.
-- Unique sorting style with the largest element at the beginning and the smallest element at the end.
-
 ## Usage
 
 - Compile the Java program (e.g., `javac Main.java`).
