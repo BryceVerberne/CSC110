@@ -8,8 +8,8 @@ The Change Calculator takes a user-provided integer value representing an amount
 
 ## Usage
 
-1. Compile the Java program (e.g., javac Main.java).
-2. Run the compiled Java program (e.g., java Main).
+1. Compile the Java program (e.g., `javac Main.java`).
+2. Run the compiled Java program (e.g., `java Main`).
 3. Follow the prompt to enter a random number representing cents.
 4. The program will output the converted values in dollars, quarters, dimes, nickels, and pennies.
 
