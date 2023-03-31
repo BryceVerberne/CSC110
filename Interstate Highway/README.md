@@ -8,8 +8,8 @@ The Interstate Highway program takes a user input for an interstate highway numb
 
 ## Usage
 
-1. Compile the Java program (e.g., javac Main.java).
-2. Run the compiled Java program (e.g., java Main).
+1. Compile the Java program (e.g., `javac Main.java`).
+2. Run the compiled Java program (e.g., `java Main`).
 3. Follow the prompt to enter the interstate highway number.
 4. The program will output the direction and type of the entered interstate highway number.
 
