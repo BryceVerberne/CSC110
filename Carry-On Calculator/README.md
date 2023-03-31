@@ -13,6 +13,8 @@ The Carry-On Calculator takes the passenger's age, number of checked bags, and n
 3. Follow the prompts to enter the passenger's age, number of checked bags, and number of carry-on items.
 4. The program will output the total cost of the plane ticket.
 
+## Example
+
 ```plaintext
 > java Main
 Age: 35
