@@ -8,10 +8,10 @@ The Online Shopping Cart program uses two classes: `Main` and `CartEditor`. The 
 
 ## Usage
 
-Compile the Java program (e.g., `javac Main.java` and `javac CartEditor.java`).
-Run the compiled Java program (e.g., `java Main`).
-Follow the prompts to enter the item name, price, and quantity for each of the two items.
-The program will output the total cost for each item, as well as the combined total cost.
+1. Compile the Java program (e.g., `javac Main.java` and `javac CartEditor.java`).
+2. Run the compiled Java program (e.g., `java Main`).
+3. Follow the prompts to enter the item name, price, and quantity for each of the two items.
+4. The program will output the total cost for each item, as well as the combined total cost.
 
 ## Example
 
