@@ -8,8 +8,8 @@ The Fibonacci program takes a user input for the desired number of steps and gen
 
 ## Usage
 
-1. Compile the Java program (e.g., javac FibonacciSequence.java).
-2. Run the compiled Java program (e.g., java FibonacciSequence).
+1. Compile the Java program (e.g., `javac FibonacciSequence.java`).
+2. Run the compiled Java program (e.g., `java FibonacciSequence`).
 3. Follow the prompt to enter the number of steps you want the Fibonacci sequence to be generated for.
 4. The program will output the Fibonacci sequence for the specified number of steps.
 
