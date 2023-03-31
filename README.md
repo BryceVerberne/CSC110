@@ -20,6 +20,7 @@ This repository contains a collection of programs completed during my CSC 110AB 
 - Objects & classes
 - Memory management
 - And more
+
 Throughout the course, I extensively used [ZyBooks](https://www.zybooks.com/) for learning materials and project assignments.
 
 ## Getting Started
