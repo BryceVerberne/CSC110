@@ -15,6 +15,8 @@ The Carry-On Calculator takes the passenger's age, number of checked bags, and n
 
 ## Example
 
+In this example, the passenger is 35 years old, has 2 checked bags, and 3 carry-on items. The base ticket price is $300, the checked bags cost $20, and the additional carry-on item costs $50. The total cost is $385.
+
 ```plaintext
 > java Main
 Age: 35
@@ -22,4 +24,3 @@ Bags: 2
 Carry Ons: 3
 Your total cost is: $385
 ```
-In this example, the passenger is 35 years old, has 2 checked bags, and 3 carry-on items. The base ticket price is $300, the checked bags cost $20, and the additional carry-on item costs $50. The total cost is $385.
