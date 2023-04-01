@@ -17,6 +17,8 @@ The Student Grades program has a pre-populated HashMap containing the names of s
 
 ## Example
 
+In this example, the user enters the name "Harry Rawlins" and a new grade of 95.5. The program then displays Harry's original grade (84.3), updates the HashMap with the new grade, and displays the updated grade (95.5).
+
 ```plaintext
 > java StudentGrades
 Harry Rawlins
@@ -24,4 +26,3 @@ Harry Rawlins
 Harry Rawlins's original grade: 84.3
 Harry Rawlins's new grade: 95.5
 ```
-In this example, the user enters the name "Harry Rawlins" and a new grade of 95.5. The program then displays Harry's original grade (84.3), updates the HashMap with the new grade, and displays the updated grade (95.5).
