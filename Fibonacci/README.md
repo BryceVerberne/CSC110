@@ -15,6 +15,8 @@ The Fibonacci program takes a user input for the desired number of steps and gen
 
 ## Example
 
+In this example, the user inputs 5 steps. The program then generates and outputs the Fibonacci sequence for 5 steps.
+
 ```plaintext
 > java FibonacciSequence
 This program outputs the Fibonacci sequence step-by-step, starting after the first 0 and 1.
@@ -27,4 +29,3 @@ How many steps would you like? 5
 1 + 2 = 3
 2 + 3 = 5
 ```
-In this example, the user inputs 5 steps. The program then generates and outputs the Fibonacci sequence for 5 steps.
