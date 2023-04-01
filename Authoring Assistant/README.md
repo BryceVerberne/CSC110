@@ -25,6 +25,8 @@ This program takes a sample text from the user and offers a menu with various te
 
 ## Example
 
+In this example, the user entered the sample text "Hello! How are you?". The program provided various text analysis options, and the user chose to count non-whitespace characters, count words, find the word "How", replace exclamation marks with periods, and shorten spaces.
+
 ```plaintext
 > java Main
 Enter a sample text:
@@ -65,4 +67,3 @@ Edited text: Hello! How are you?
 Choose an option:
 q
 ```
-In this example, the user entered the sample text "Hello! How are you?". The program provided various text analysis options, and the user chose to count non-whitespace characters, count words, find the word "How", replace exclamation marks with periods, and shorten spaces.
