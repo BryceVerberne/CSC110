@@ -15,6 +15,8 @@ The Change Calculator takes a user-provided integer value representing an amount
 
 ## Example
 
+In this example, the user inputs 453 cents. The program calculates the equivalent amount as 4 dollars, 1 quarter, 2 dimes, 1 nickel, and 3 pennies.
+
 ```plaintext
 > java Main
 Give me a random number & I'll convert it to change: 453
@@ -24,4 +26,3 @@ Give me a random number & I'll convert it to change: 453
 1 Nickel
 3 Pennies
 ```
-In this example, the user inputs 453 cents. The program calculates the equivalent amount as 4 dollars, 1 quarter, 2 dimes, 1 nickel, and 3 pennies.
