@@ -15,6 +15,8 @@ The Next Substring program takes three user inputs: a word (inputString), a star
 
 ## Example
 
+In this example, the user inputs the word "abracadabra", starting index 3, and the search word "ab". The program then returns the index of the next occurrence of the search word "ab" after index 3, which is 7.
+
 ```plaintext
 > java Main
 Word: abracadabra
@@ -22,4 +24,3 @@ Index: 3
 Search Word: ab
 3
 ```
-In this example, the user inputs the word "abracadabra", starting index 3, and the search word "ab". The program then returns the index of the next occurrence of the search word "ab" after index 3, which is 7.
