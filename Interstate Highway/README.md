@@ -15,9 +15,10 @@ The Interstate Highway program takes a user input for an interstate highway numb
 
 ## Example
 
+In this example, the user inputs the interstate highway number 95. The program then determines and outputs that I-95 is a primary interstate highway going north/south.
+
 ```plaintext
 > java Main
 Interstate Number: 95
 I-95 is primary, going north/south.
 ```
-In this example, the user inputs the interstate highway number 95. The program then determines and outputs that I-95 is a primary interstate highway going north/south.
