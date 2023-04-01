@@ -16,6 +16,8 @@ The Parse Strings program takes a user-input string containing two words separat
 
 ## Example
 
+In this example, the user enters a string "Apple, Orange" with two words separated by a comma, and the program correctly displays the parsed words. The user then enters a string without a comma ("Banana Grape"), and the program displays an error message. The user continues with another valid input string, "Tomato, Cucumber", and the program again displays the parsed words. The user then enters "q" to quit the program.
+
 ```plaintext
 > java ParseStrings
 Enter input string:
@@ -35,4 +37,3 @@ Second word: Cucumber
 Enter input string:
 q
 ```
-In this example, the user enters a string "Apple, Orange" with two words separated by a comma, and the program correctly displays the parsed words. The user then enters a string without a comma ("Banana Grape"), and the program displays an error message. The user continues with another valid input string, "Tomato, Cucumber", and the program again displays the parsed words. The user then enters "q" to quit the program.
