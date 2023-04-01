@@ -15,6 +15,8 @@ The Online Shopping Cart program uses two classes: `Main` and `CartEditor`. The 
 
 ## Example
 
+In this example, the user inputs "Toothpaste" for the first item, with a price of $3 and a quantity of 2. The user then inputs "Shampoo" for the second item, with a price of $6 and a quantity of 1. The program calculates the total cost for each item and the combined total, displaying $6 for Toothpaste, $6 for Shampoo, and a total of $12.
+
 ```plaintext
 > java Main
 Item 1
@@ -38,4 +40,3 @@ Shampoo 1 @ $6 = $6
 
 Total: $12
 ```
-In this example, the user inputs "Toothpaste" for the first item, with a price of $3 and a quantity of 2. The user then inputs "Shampoo" for the second item, with a price of $6 and a quantity of 1. The program calculates the total cost for each item and the combined total, displaying $6 for Toothpaste, $6 for Shampoo, and a total of $12.
