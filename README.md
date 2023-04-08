@@ -32,10 +32,10 @@ To run and modify the code in this repository, you will need the following softw
 
 ## Disclaimer
 
-These projects are provided for educational purposes only. While the code is free to use, modify, or distribute, please do not use it to directly copy or plagiarize assignments for your coursework. Instead, use the material as a reference to help you understand the fundamentals of computer programming. 
+These projects are provided for educational purposes only. While the code is free to share and use for non-commercial purposes, please do not use it to directly copy or plagiarize assignments for your coursework. Instead, use the material as a reference to help you understand the fundamentals of computer programming. 
 
 ## License
 
-This repository is licensed under the CC BY-NC-ND 4.0 License - see the [LICENSE](LICENSE) file for details.
+This repository is licensed under the CC BY-NC-ND 4.0 License - see the [LICENSE.md](LICENSE.md) file for details.
 
 **Good luck and happy coding!**
